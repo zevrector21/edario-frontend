@@ -1,7 +1,7 @@
 import React, { useState , useEffect , useRef } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTimes, faCheck, faEdit, faPlus, faSave, faRedo, faUserCircle, faCheckCircle, faHourglassHalf, faAngleDown, faAngleUp, faSearch } from '@fortawesome/free-solid-svg-icons';
-import { WithContext as ReactTags } from 'react-tag-input';
+import { WithContext as ReactTags } from 'react-tag-input-latest';
 
 // dummy data for API response
 
@@ -410,10 +410,8 @@ export default function ConfirmResources() {
 }
 
 function CustomSection(props) {	
-	const suggestions = [
-		{id : 'bilingual', text: 'bilingual'},
-		{id: 'icr', text: 'icr'}
-	];
+
+	const suggestions = ['bilingual', 'icr']
 
 	const KeyCodes = {
 	  comma: 188,
@@ -462,8 +460,11 @@ function CustomSection(props) {
 	}
 
 	const handleAddition = (label) => {
-		labels.push(label);
-		setLabels(labels);
+		labels.push({
+			'id': label,
+			'text': label
+		});
+		setLabels(labels);		
 	}
 
 	const handleDrag = (label, currPos, newPos) => {

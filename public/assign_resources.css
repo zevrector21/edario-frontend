@@ -640,13 +640,13 @@
 }
 
 .ReactTags__tagInputField {
-	max-width: 78px;
+	max-width: 70px;
     padding: 0;
     font-size: 14px;
     line-height: 1;
 }
 
-.tag-wrapper.ReactTags__tag {
+.ReactTags__tag {
 	border: 1px solid #efefef;
     border-radius: 4px;
     padding: 0 4px;
@@ -689,4 +689,300 @@
 
 .data-section-header {
 	margin: auto 5px auto 0;
+}
+
+.main-panel {
+	display: grid;
+	grid-template-columns: repeat(11, 1fr);	
+	width: 100%;
+	min-height: 80vh;
+}
+
+.main-cell {
+	padding: 8px 0;
+	display: flex;
+	flex-direction: column;
+	width: 94.5px;
+}
+
+.main-body {
+	background-color: #fff6d9;	
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;	
+	height: 50px;
+    border: 1px solid #dbdbdb;
+    cursor: pointer;
+}
+
+.main-item {	
+	background-color: #efefef;
+	display: flex;
+	flex-direction: column;
+	padding: 2px 4px 2px 14px;
+	transition: background-color .8s ease-out;
+	width: 100%;
+    border-left: 1px solid #ddd;
+    font-size: 12px;
+    text-align: center;
+    position: relative;    
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.main-item:hover {
+	background-color: #fff;
+	transition: background-color .1s ease-in;
+}
+
+.mi-semester {
+	width: 50%;
+    background-color: #d0dbe6 !important;
+}
+
+.mi-error {
+    background-color: #F5C9CB !important;
+}
+
+.mi-coursename {
+    position: relative;
+    display: block;
+    font-size: 10px;
+    font-weight: bold;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.mi-teachername {
+    position: relative;
+    display: block;
+    font-size: 9px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.mi-coursecount {
+    position: relative;
+    display: block;
+    font-size: 9px;
+    color: #808080;
+    margin: 4px 0px 0px 0px;
+}
+
+.mi-lock {
+    position: absolute;
+    width: 25%;
+    right: 0px;
+    bottom: 0px;
+    text-align: right;
+    padding: 2px 2px 0px 0px;
+    color: #a9a9a9;
+    font-size: 8px;
+}
+
+.main-section {
+	margin: auto;
+	width: 100%;
+}
+
+.schedule-top {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+
+.schedule-top .schedule-title {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.schedule-top .match-rate {
+	font-size: 18px;
+	font-weight: bold;
+	margin: auto 0;
+}
+
+.schedule-header {
+    padding: 8px 0;
+    top: 20px;
+    z-index: 100000;
+	display: flex;
+	justify-content: space-between;
+	background-color: #2c3e50;
+    color: #ffffff;
+    position: sticky;
+}
+
+.schedule-header .header-title {	
+	font-size: 12px;
+	text-align: center;
+}
+
+.schedule-header .h-type {
+	width: 140px;
+	padding: 0 25px;
+	text-align: left;
+	text-transform: capitalize;
+}
+
+.header-month {
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+	width: 100%;
+}
+
+.schedule-body {
+	display: flex;
+	margin-top: 15px;
+}
+
+.left-panel {
+	min-width: 120px;
+	height: 60vh;
+	display: flex;
+	flex-direction: column;
+}
+
+.h-type-value {
+	padding: 10px;
+	min-height: 66px;
+	display: flex;
+}
+
+.h-type-value > div {
+	margin: auto 0;
+	font-size: 12px;
+    padding: 3px 3px 3px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+	border-left: 3px solid #27ae60;
+}
+
+.h-type-value .st-view {
+	border: none;
+	position: relative;
+}
+
+.h-type-value .st-view .student-status {
+    text-align: center;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    margin: 3px 0px 0px 0px;
+    background: #F0C30F;
+    position: absolute;
+    left: 0;
+}
+
+.x-ellipsis {
+	font-size: 18px;
+	color: #ffffff;
+	position: absolute;
+	left: 2px;
+	top: 34%;
+}
+
+.schedule-toolbar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+
+.schedule-toolbar input {
+	width: 380px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    padding: 4px 16px;
+    font-size: 14px;
+}
+
+.view-mode {
+	display: flex;
+	justify-content: space-between;
+	margin: auto 0;
+}
+
+.view-mode .view-item {
+	padding: 4px 10px;
+	font-size: 14px;
+	cursor: pointer;
+    text-transform: capitalize;
+}
+
+.view-mode .view-item:hover {
+	color: #2582ba;
+}
+
+.view-mode .view-item.active {
+	border-bottom: 3px solid #2582ba;	
+}
+
+
+.left_border_red {
+  border-left: 3px solid #c0392b !important;
+}
+
+.left_border_orange {
+  border-left: 3px solid #e67e22 !important;
+}
+
+.left_border_yellow {
+  border-left: 3px solid #f39c12 !important;
+}
+
+.left_border_purple {
+  border-left: 3px solid #9b59b6 !important;
+}
+
+.left_border_blue {
+  border-left: 3px solid #2980b9 !important;
+}
+
+.left_border_dark_blue {
+  border-left: 3px solid #2c3e50 !important;
+}
+
+.left_border_green {
+  border-left: 3px solid #27ae60 !important;
+}
+
+.left_border_turquoise {
+  border-left: 3px solid #1abc9c !important;
+}
+
+.left_border_red_thick {
+  border-left: 5px solid #c0392b !important;
+}
+
+.left_border_orange_thick {
+  border-left: 5px solid #e67e22 !important;
+}
+
+.left_border_yellow_thick {
+  border-left: 5px solid #f39c12 !important;
+}
+
+.left_border_purple_thick {
+  border-left: 5px solid #9b59b6 !important;
+}
+
+.left_border_blue_thick {
+  border-left: 5px solid #2980b9 !important;
+}
+
+.left_border_dark_blue_thick {
+  border-left: 5px solid #2c3e50 !important;
+}
+
+.left_border_green_thick {
+  border-left: 5px solid #27ae60 !important;
+}
+
+.left_border_turquoise_thick {
+  border-left: 5px solid #1abc9c !important;
 }

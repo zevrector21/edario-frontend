@@ -4,6 +4,7 @@
   "private": true,
   "devDependencies": {
     "cross-env": "^5.1.4",
+    "json-loader": "^0.5.7",
     "react-scripts": "3.4.4"
   },
   "dependencies": {
@@ -14,14 +15,15 @@
     "marked": "^0.3.6",
     "prop-types": "^15.7.2",
     "react": "^17.0.0",
-    "react-dnd": "^5.0.0",
-    "react-dnd-html5-backend": "^3.0.2",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-dnd": "^11.1.3",
+    "react-dnd-html5-backend": "^11.1.3",
     "react-dom": "^17.0.0",
     "react-redux": "^5.0.7",
     "react-router": "^4.1.2",
     "react-router-dom": "^4.1.2",
     "react-router-redux": "^5.0.0-alpha.6",
-    "react-tag-input": "^6.4.3",
+    "react-tag-input-latest": "^4.5.9",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-logger": "^3.0.1",

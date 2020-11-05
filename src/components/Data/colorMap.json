@@ -1,0 +1,18 @@
+{
+  "Art": "left_border_orange_thick",
+  "Bilingual/ESL": "left_border_red_thick",
+  "Business": "left_border_yellow_thick",
+  "Computer Science": "left_border_purple_thick",
+  "Duties": "left_border_blue_thick",
+  "English": "left_border_dark_blue_thick",
+  "Health": "left_border_green_thick",
+  "Math": "left_border_turquoise_thick",
+  "Music": "left_border_orange_thick",
+  "Physical Education": "left_border_red_thick",
+  "Science": "left_border_yellow_thick",
+  "Social Studies": "left_border_purple_thick",
+  "Special Education": "left_border_blue_thick",
+  "Technology": "left_border_dark_blue_thick",
+  "Visual & Performing Arts": "left_border_green_thick",
+  "World Language": "left_border_turquoise_thick"
+}

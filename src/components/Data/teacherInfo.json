@@ -1,0 +1,2706 @@
+{
+  "615": {
+    "last_name": "Alcasid",
+    "first_name": "Robin",
+    "department": "Business",
+    "teacher_can_teach": [
+      {
+        "course_id": "1987",
+        "type": "primary"
+      },
+      {
+        "course_id": "1988",
+        "type": "primary"
+      },
+      {
+        "course_id": "1996",
+        "type": "primary"
+      },
+      {
+        "course_id": "1997",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "481"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "617": {
+    "last_name": "Alterman",
+    "first_name": "Beth",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1797",
+        "type": "primary"
+      },
+      {
+        "course_id": "1811",
+        "type": "primary"
+      },
+      {
+        "course_id": "1823",
+        "type": "primary"
+      },
+      {
+        "course_id": "1831",
+        "type": "primary"
+      },
+      {
+        "course_id": "1868",
+        "type": "primary"
+      },
+      {
+        "course_id": "1870",
+        "type": "primary"
+      },
+      {
+        "course_id": "1872",
+        "type": "primary"
+      },
+      {
+        "course_id": "1873",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "618": {
+    "last_name": "Amouzou",
+    "first_name": "Rodrigue",
+    "department": "World Language",
+    "teacher_can_teach": [
+      {
+        "course_id": "1877",
+        "type": "primary"
+      },
+      {
+        "course_id": "1878",
+        "type": "primary"
+      },
+      {
+        "course_id": "1879",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "436"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "619": {
+    "last_name": "Angelucci",
+    "first_name": "Jo-Ann",
+    "department": "Business",
+    "teacher_can_teach": [
+      {
+        "course_id": "1990",
+        "type": "primary"
+      },
+      {
+        "course_id": "2000",
+        "type": "primary"
+      },
+      {
+        "course_id": "2001",
+        "type": "primary"
+      },
+      {
+        "course_id": "2002",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      },
+      {
+        "course_id": "2060",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "481"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "620": {
+    "last_name": "Arthur",
+    "first_name": "Leslie",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1984",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "621": {
+    "last_name": "Baker",
+    "first_name": "Rebecca",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1854",
+        "type": "primary"
+      },
+      {
+        "course_id": "1855",
+        "type": "primary"
+      },
+      {
+        "course_id": "1856",
+        "type": "primary"
+      },
+      {
+        "course_id": "1857",
+        "type": "primary"
+      },
+      {
+        "course_id": "1858",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "457"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "622": {
+    "last_name": "Begonja",
+    "first_name": "Lauran",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1820",
+        "type": "primary"
+      },
+      {
+        "course_id": "1821",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1822",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1874",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "623": {
+    "last_name": "Bergbauer",
+    "first_name": "Jonathan",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1801",
+        "type": "primary"
+      },
+      {
+        "course_id": "1805",
+        "type": "primary"
+      },
+      {
+        "course_id": "1807",
+        "type": "primary"
+      },
+      {
+        "course_id": "2049",
+        "type": "primary"
+      },
+      {
+        "course_id": "2051",
+        "type": "primary"
+      },
+      {
+        "course_id": "2052",
+        "type": "primary"
+      },
+      {
+        "course_id": "2053",
+        "type": "secondary"
+      },
+      {
+        "course_id": "2054",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "624": {
+    "last_name": "Bishop",
+    "first_name": "Sinclair",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1932",
+        "type": "primary"
+      },
+      {
+        "course_id": "1939",
+        "type": "primary"
+      },
+      {
+        "course_id": "1953",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "459"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "625": {
+    "last_name": "Bradley",
+    "first_name": "Jack",
+    "department": "Music",
+    "teacher_can_teach": [
+      {
+        "course_id": "2022",
+        "type": "primary"
+      },
+      {
+        "course_id": "2023",
+        "type": "primary"
+      },
+      {
+        "course_id": "2024",
+        "type": "primary"
+      },
+      {
+        "course_id": "2025",
+        "type": "primary"
+      },
+      {
+        "course_id": "2026",
+        "type": "primary"
+      },
+      {
+        "course_id": "2027",
+        "type": "primary"
+      },
+      {
+        "course_id": "2028",
+        "type": "primary"
+      },
+      {
+        "course_id": "2029",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "493"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "626": {
+    "last_name": "Bresocnik",
+    "first_name": "Erik",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1967",
+        "type": "primary"
+      },
+      {
+        "course_id": "1968",
+        "type": "primary"
+      },
+      {
+        "course_id": "1969",
+        "type": "primary"
+      },
+      {
+        "course_id": "1970",
+        "type": "primary"
+      },
+      {
+        "course_id": "1971",
+        "type": "secondary"
+      }
+    ],
+    "classroom_restrictions": [
+      "489"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "627": {
+    "last_name": "Caldarola",
+    "first_name": "Nicole",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1826",
+        "type": "primary"
+      },
+      {
+        "course_id": "1834",
+        "type": "primary"
+      },
+      {
+        "course_id": "1836",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1837",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "448"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "628": {
+    "last_name": "Catrone",
+    "first_name": "Susan",
+    "department": "Art",
+    "teacher_can_teach": [
+      {
+        "course_id": "2014",
+        "type": "primary"
+      },
+      {
+        "course_id": "2017",
+        "type": "primary"
+      },
+      {
+        "course_id": "2018",
+        "type": "primary"
+      },
+      {
+        "course_id": "2019",
+        "type": "primary"
+      },
+      {
+        "course_id": "2020",
+        "type": "primary"
+      },
+      {
+        "course_id": "2021",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "630": {
+    "last_name": "Cherepski",
+    "first_name": "Brian",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2037",
+        "type": "primary"
+      },
+      {
+        "course_id": "2038",
+        "type": "primary"
+      },
+      {
+        "course_id": "2040",
+        "type": "primary"
+      },
+      {
+        "course_id": "2041",
+        "type": "primary"
+      },
+      {
+        "course_id": "2043",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "632": {
+    "last_name": "Codio",
+    "first_name": "Jaida",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1821",
+        "type": "primary"
+      },
+      {
+        "course_id": "1822",
+        "type": "primary"
+      },
+      {
+        "course_id": "1874",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "430"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "633": {
+    "last_name": "Connolly",
+    "first_name": "Dorothy",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2050",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "634": {
+    "last_name": "Cortina",
+    "first_name": "Nestor",
+    "department": "Technology",
+    "teacher_can_teach": [
+      {
+        "course_id": "1994",
+        "type": "primary"
+      },
+      {
+        "course_id": "1995",
+        "type": "primary"
+      },
+      {
+        "course_id": "2004",
+        "type": "primary"
+      },
+      {
+        "course_id": "2005",
+        "type": "primary"
+      },
+      {
+        "course_id": "2006",
+        "type": "primary"
+      },
+      {
+        "course_id": "2007",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "492"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "635": {
+    "last_name": "Cunha",
+    "first_name": "Ana Maria",
+    "department": "Bilingual/ESL",
+    "teacher_can_teach": [
+      {
+        "course_id": "1847",
+        "type": "primary"
+      },
+      {
+        "course_id": "1850",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "636": {
+    "last_name": "Dell'Aquila",
+    "first_name": "Jason",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1797",
+        "type": "primary"
+      },
+      {
+        "course_id": "1814",
+        "type": "primary"
+      },
+      {
+        "course_id": "1916",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "637": {
+    "last_name": "Derillo",
+    "first_name": "Jerry",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1965",
+        "type": "primary"
+      },
+      {
+        "course_id": "1970",
+        "type": "primary"
+      },
+      {
+        "course_id": "1971",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1982",
+        "type": "primary"
+      },
+      {
+        "course_id": "1983",
+        "type": "primary"
+      },
+      {
+        "course_id": "1986",
+        "type": "primary"
+      },
+      {
+        "course_id": "1991",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "638": {
+    "last_name": "Dershowitz",
+    "first_name": "Ruth",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1803",
+        "type": "primary"
+      },
+      {
+        "course_id": "1808",
+        "type": "primary"
+      },
+      {
+        "course_id": "1811",
+        "type": "primary"
+      },
+      {
+        "course_id": "1817",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "640": {
+    "last_name": "Dolan",
+    "first_name": "John",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1927",
+        "type": "primary"
+      },
+      {
+        "course_id": "2042",
+        "type": "primary"
+      },
+      {
+        "course_id": "2043",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "641": {
+    "last_name": "Domashinski",
+    "first_name": "Mark",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1966",
+        "type": "primary"
+      },
+      {
+        "course_id": "1967",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1968",
+        "type": "primary"
+      },
+      {
+        "course_id": "1991",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "484"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "642": {
+    "last_name": "Dominguez",
+    "first_name": "Herminio",
+    "department": "World Language",
+    "teacher_can_teach": [
+      {
+        "course_id": "1888",
+        "type": "primary"
+      },
+      {
+        "course_id": "1889",
+        "type": "primary"
+      },
+      {
+        "course_id": "1890",
+        "type": "primary"
+      },
+      {
+        "course_id": "1897",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "432"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "643": {
+    "last_name": "Dooley",
+    "first_name": "Shannon",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1862",
+        "type": "primary"
+      },
+      {
+        "course_id": "1927",
+        "type": "primary"
+      },
+      {
+        "course_id": "1953",
+        "type": "primary"
+      },
+      {
+        "course_id": "1955",
+        "type": "primary"
+      },
+      {
+        "course_id": "1956",
+        "type": "primary"
+      },
+      {
+        "course_id": "1957",
+        "type": "primary"
+      },
+      {
+        "course_id": "1958",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "644": {
+    "last_name": "Dorrian",
+    "first_name": "Jeanmarie",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1917",
+        "type": "primary"
+      },
+      {
+        "course_id": "1920",
+        "type": "primary"
+      },
+      {
+        "course_id": "1921",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "645": {
+    "last_name": "Dunn",
+    "first_name": "Judee",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1824",
+        "type": "primary"
+      },
+      {
+        "course_id": "1866",
+        "type": "primary"
+      },
+      {
+        "course_id": "1867",
+        "type": "primary"
+      },
+      {
+        "course_id": "1869",
+        "type": "primary"
+      },
+      {
+        "course_id": "1871",
+        "type": "primary"
+      },
+      {
+        "course_id": "1874",
+        "type": "primary"
+      },
+      {
+        "course_id": "1876",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "646": {
+    "last_name": "Ellen",
+    "first_name": "Mary",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2043",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "647": {
+    "last_name": "Fradella-Vega",
+    "first_name": "Elizabeth",
+    "department": "Bilingual/ESL",
+    "teacher_can_teach": [
+      {
+        "course_id": "1845",
+        "type": "primary"
+      },
+      {
+        "course_id": "1846",
+        "type": "primary"
+      },
+      {
+        "course_id": "1847",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "476"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "649": {
+    "last_name": "Francke",
+    "first_name": "Melissa",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1805",
+        "type": "primary"
+      },
+      {
+        "course_id": "1817",
+        "type": "primary"
+      },
+      {
+        "course_id": "1827",
+        "type": "primary"
+      },
+      {
+        "course_id": "1835",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "650": {
+    "last_name": "Garritt",
+    "first_name": "Eugene",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1911",
+        "type": "primary"
+      },
+      {
+        "course_id": "1912",
+        "type": "primary"
+      },
+      {
+        "course_id": "1913",
+        "type": "primary"
+      },
+      {
+        "course_id": "1915",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "456"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "651": {
+    "last_name": "Goldberg",
+    "first_name": "Beth",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1828",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1829",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1830",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1862",
+        "type": "primary"
+      },
+      {
+        "course_id": "1863",
+        "type": "primary"
+      },
+      {
+        "course_id": "1865",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "653": {
+    "last_name": "Hoffman",
+    "first_name": "Adam",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1806",
+        "type": "primary"
+      },
+      {
+        "course_id": "1808",
+        "type": "primary"
+      },
+      {
+        "course_id": "1812",
+        "type": "primary"
+      },
+      {
+        "course_id": "1813",
+        "type": "primary"
+      },
+      {
+        "course_id": "1816",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "654": {
+    "last_name": "Jackson",
+    "first_name": "Kason",
+    "department": "Music",
+    "teacher_can_teach": [
+      {
+        "course_id": "2029",
+        "type": "secondary"
+      },
+      {
+        "course_id": "2030",
+        "type": "primary"
+      },
+      {
+        "course_id": "2031",
+        "type": "primary"
+      },
+      {
+        "course_id": "2032",
+        "type": "primary"
+      },
+      {
+        "course_id": "2033",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "472"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "655": {
+    "last_name": "Jannicelli",
+    "first_name": "Michael",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1963",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1972",
+        "type": "primary"
+      },
+      {
+        "course_id": "1978",
+        "type": "primary"
+      },
+      {
+        "course_id": "1979",
+        "type": "primary"
+      },
+      {
+        "course_id": "1984",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "656": {
+    "last_name": "Johal",
+    "first_name": "Tarvinder",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1925",
+        "type": "primary"
+      },
+      {
+        "course_id": "1926",
+        "type": "primary"
+      },
+      {
+        "course_id": "1927",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "467"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "657": {
+    "last_name": "Kately",
+    "first_name": "Tara",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1970",
+        "type": "primary"
+      },
+      {
+        "course_id": "1971",
+        "type": "primary"
+      },
+      {
+        "course_id": "1985",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "490"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "658": {
+    "last_name": "Kaur",
+    "first_name": "Bhupinder",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1937",
+        "type": "primary"
+      },
+      {
+        "course_id": "1938",
+        "type": "primary"
+      },
+      {
+        "course_id": "1939",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1943",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "659": {
+    "last_name": "Kaur",
+    "first_name": "Harjit",
+    "department": "World Language",
+    "teacher_can_teach": [
+      {
+        "course_id": "1898",
+        "type": "primary"
+      },
+      {
+        "course_id": "1900",
+        "type": "primary"
+      },
+      {
+        "course_id": "1901",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "660": {
+    "last_name": "Kinak",
+    "first_name": "Yasemin",
+    "department": "Computer Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1947",
+        "type": "primary"
+      },
+      {
+        "course_id": "1949",
+        "type": "primary"
+      },
+      {
+        "course_id": "1950",
+        "type": "primary"
+      },
+      {
+        "course_id": "1951",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "662": {
+    "last_name": "Kokos",
+    "first_name": "Victor",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1803",
+        "type": "primary"
+      },
+      {
+        "course_id": "1808",
+        "type": "primary"
+      },
+      {
+        "course_id": "1816",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "663": {
+    "last_name": "Kourany",
+    "first_name": "Veronica",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1932",
+        "type": "primary"
+      },
+      {
+        "course_id": "1939",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "460"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "664": {
+    "last_name": "Lachiver",
+    "first_name": "Jacqueline",
+    "department": "Art",
+    "teacher_can_teach": [
+      {
+        "course_id": "2019",
+        "type": "secondary"
+      },
+      {
+        "course_id": "2020",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "461"
+    ],
+    "period_restrictions": [
+      "62",
+      "63",
+      "64",
+      "65",
+      "66"
+    ],
+    "student_restrictions": []
+  },
+  "666": {
+    "last_name": "Lawton",
+    "first_name": "Hillary",
+    "department": "Visual & Performing Arts",
+    "teacher_can_teach": [
+      {
+        "course_id": "1838",
+        "type": "primary"
+      },
+      {
+        "course_id": "1839",
+        "type": "primary"
+      },
+      {
+        "course_id": "1840",
+        "type": "primary"
+      },
+      {
+        "course_id": "1854",
+        "type": "primary"
+      },
+      {
+        "course_id": "1858",
+        "type": "primary"
+      },
+      {
+        "course_id": "1861",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "667": {
+    "last_name": "Lozak",
+    "first_name": "Richard",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1862",
+        "type": "primary"
+      },
+      {
+        "course_id": "1940",
+        "type": "primary"
+      },
+      {
+        "course_id": "1941",
+        "type": "primary"
+      },
+      {
+        "course_id": "1946",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "668": {
+    "last_name": "Lujan",
+    "first_name": "Esther",
+    "department": "World Language",
+    "teacher_can_teach": [
+      {
+        "course_id": "1888",
+        "type": "primary"
+      },
+      {
+        "course_id": "1889",
+        "type": "primary"
+      },
+      {
+        "course_id": "1894",
+        "type": "primary"
+      },
+      {
+        "course_id": "1895",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "438"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "669": {
+    "last_name": "Macfie",
+    "first_name": "Melissa",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1834",
+        "type": "primary"
+      },
+      {
+        "course_id": "1836",
+        "type": "primary"
+      },
+      {
+        "course_id": "1837",
+        "type": "primary"
+      },
+      {
+        "course_id": "1864",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "447"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "670": {
+    "last_name": "Maciejak",
+    "first_name": "Victoria",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1928",
+        "type": "primary"
+      },
+      {
+        "course_id": "1929",
+        "type": "primary"
+      },
+      {
+        "course_id": "1939",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "469"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "671": {
+    "last_name": "Magella",
+    "first_name": "Robert",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1830",
+        "type": "primary"
+      },
+      {
+        "course_id": "1833",
+        "type": "primary"
+      },
+      {
+        "course_id": "1837",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "445"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "673": {
+    "last_name": "Masse",
+    "first_name": "Leonard",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1930",
+        "type": "primary"
+      },
+      {
+        "course_id": "1940",
+        "type": "primary"
+      },
+      {
+        "course_id": "1943",
+        "type": "primary"
+      },
+      {
+        "course_id": "1944",
+        "type": "primary"
+      },
+      {
+        "course_id": "1945",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "674": {
+    "last_name": "McCrea",
+    "first_name": "Gina",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2011",
+        "type": "primary"
+      },
+      {
+        "course_id": "2012",
+        "type": "primary"
+      },
+      {
+        "course_id": "2013",
+        "type": "secondary"
+      },
+      {
+        "course_id": "2046",
+        "type": "primary"
+      },
+      {
+        "course_id": "2047",
+        "type": "primary"
+      },
+      {
+        "course_id": "2048",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "482"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "676": {
+    "last_name": "McFadden",
+    "first_name": "William",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2040",
+        "type": "primary"
+      },
+      {
+        "course_id": "2041",
+        "type": "primary"
+      },
+      {
+        "course_id": "2042",
+        "type": "primary"
+      },
+      {
+        "course_id": "2043",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "677": {
+    "last_name": "McGregor",
+    "first_name": "Heather",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1797",
+        "type": "primary"
+      },
+      {
+        "course_id": "1799",
+        "type": "primary"
+      },
+      {
+        "course_id": "1801",
+        "type": "primary"
+      },
+      {
+        "course_id": "1803",
+        "type": "primary"
+      },
+      {
+        "course_id": "1843",
+        "type": "primary"
+      },
+      {
+        "course_id": "2013",
+        "type": "secondary"
+      }
+    ],
+    "classroom_restrictions": [
+      "424"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "678": {
+    "last_name": "McGuckin",
+    "first_name": "Robert",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1824",
+        "type": "primary"
+      },
+      {
+        "course_id": "1825",
+        "type": "primary"
+      },
+      {
+        "course_id": "1826",
+        "type": "primary"
+      },
+      {
+        "course_id": "1840",
+        "type": "primary"
+      },
+      {
+        "course_id": "1841",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "449"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "679": {
+    "last_name": "Melillo",
+    "first_name": "Maria",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1844",
+        "type": "primary"
+      },
+      {
+        "course_id": "2011",
+        "type": "secondary"
+      },
+      {
+        "course_id": "2013",
+        "type": "primary"
+      },
+      {
+        "course_id": "2046",
+        "type": "secondary"
+      },
+      {
+        "course_id": "2047",
+        "type": "secondary"
+      },
+      {
+        "course_id": "2055",
+        "type": "primary"
+      },
+      {
+        "course_id": "2056",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "483"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "680": {
+    "last_name": "Mesa",
+    "first_name": "Arlete",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1828",
+        "type": "primary"
+      },
+      {
+        "course_id": "1829",
+        "type": "primary"
+      },
+      {
+        "course_id": "1830",
+        "type": "primary"
+      },
+      {
+        "course_id": "1874",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "446"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "681": {
+    "last_name": "Millan",
+    "first_name": "Maria",
+    "department": "World Language",
+    "teacher_can_teach": [
+      {
+        "course_id": "1888",
+        "type": "primary"
+      },
+      {
+        "course_id": "1889",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "433"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "682": {
+    "last_name": "Moccio",
+    "first_name": "Louis",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1966",
+        "type": "primary"
+      },
+      {
+        "course_id": "1967",
+        "type": "primary"
+      },
+      {
+        "course_id": "1980",
+        "type": "primary"
+      },
+      {
+        "course_id": "1981",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "683": {
+    "last_name": "Morvay",
+    "first_name": "Daniel",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1801",
+        "type": "primary"
+      },
+      {
+        "course_id": "1807",
+        "type": "primary"
+      },
+      {
+        "course_id": "1815",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "685": {
+    "last_name": "Moszkowski",
+    "first_name": "Robyn",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2037",
+        "type": "primary"
+      },
+      {
+        "course_id": "2038",
+        "type": "primary"
+      },
+      {
+        "course_id": "2040",
+        "type": "primary"
+      },
+      {
+        "course_id": "2041",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "687": {
+    "last_name": "Nardone",
+    "first_name": "Deanna",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2037",
+        "type": "primary"
+      },
+      {
+        "course_id": "2038",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "688": {
+    "last_name": "Nartowicz",
+    "first_name": "John",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1907",
+        "type": "primary"
+      },
+      {
+        "course_id": "1908",
+        "type": "primary"
+      },
+      {
+        "course_id": "1919",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "451"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "689": {
+    "last_name": "Outwater",
+    "first_name": "Jeffrey",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1830",
+        "type": "primary"
+      },
+      {
+        "course_id": "1837",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1853",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "690": {
+    "last_name": "Panos",
+    "first_name": "Nicholas",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1801",
+        "type": "primary"
+      },
+      {
+        "course_id": "1806",
+        "type": "primary"
+      },
+      {
+        "course_id": "1807",
+        "type": "primary"
+      },
+      {
+        "course_id": "1813",
+        "type": "primary"
+      },
+      {
+        "course_id": "2049",
+        "type": "primary"
+      },
+      {
+        "course_id": "2051",
+        "type": "primary"
+      },
+      {
+        "course_id": "2052",
+        "type": "primary"
+      },
+      {
+        "course_id": "2053",
+        "type": "primary"
+      },
+      {
+        "course_id": "2054",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "691": {
+    "last_name": "Papandrew",
+    "first_name": "George",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1969",
+        "type": "primary"
+      },
+      {
+        "course_id": "1972",
+        "type": "primary"
+      },
+      {
+        "course_id": "1973",
+        "type": "primary"
+      },
+      {
+        "course_id": "1974",
+        "type": "primary"
+      },
+      {
+        "course_id": "1975",
+        "type": "primary"
+      },
+      {
+        "course_id": "1976",
+        "type": "primary"
+      },
+      {
+        "course_id": "1977",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "693": {
+    "last_name": "Paz",
+    "first_name": "Mary Ellen",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2037",
+        "type": "primary"
+      },
+      {
+        "course_id": "2038",
+        "type": "primary"
+      },
+      {
+        "course_id": "2040",
+        "type": "primary"
+      },
+      {
+        "course_id": "2041",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "694": {
+    "last_name": "Perez",
+    "first_name": "Virginia",
+    "department": "Art",
+    "teacher_can_teach": [
+      {
+        "course_id": "2015",
+        "type": "primary"
+      },
+      {
+        "course_id": "2016",
+        "type": "primary"
+      },
+      {
+        "course_id": "2058",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "695": {
+    "last_name": "Platero",
+    "first_name": "Ralph",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1961",
+        "type": "primary"
+      },
+      {
+        "course_id": "1962",
+        "type": "primary"
+      },
+      {
+        "course_id": "1963",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1999",
+        "type": "primary"
+      },
+      {
+        "course_id": "2003",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "487"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "696": {
+    "last_name": "Reyes",
+    "first_name": "Leonard",
+    "department": "Social Studies",
+    "teacher_can_teach": [
+      {
+        "course_id": "1963",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "486"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "697": {
+    "last_name": "Roberts",
+    "first_name": "Erica",
+    "department": "Bilingual/ESL",
+    "teacher_can_teach": [
+      {
+        "course_id": "1849",
+        "type": "primary"
+      },
+      {
+        "course_id": "1852",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "699": {
+    "last_name": "Roche",
+    "first_name": "Mackenzie",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1907",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1912",
+        "type": "primary"
+      },
+      {
+        "course_id": "1915",
+        "type": "primary"
+      },
+      {
+        "course_id": "1918",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "452"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "700": {
+    "last_name": "Salazar",
+    "first_name": "George",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1824",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1825",
+        "type": "primary"
+      },
+      {
+        "course_id": "1826",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1842",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "442"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "701": {
+    "last_name": "Sampedro",
+    "first_name": "Manuela",
+    "department": "World Language",
+    "teacher_can_teach": [
+      {
+        "course_id": "1889",
+        "type": "primary"
+      },
+      {
+        "course_id": "1890",
+        "type": "primary"
+      },
+      {
+        "course_id": "1893",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "441"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "703": {
+    "last_name": "Simon",
+    "first_name": "Charles",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1904",
+        "type": "primary"
+      },
+      {
+        "course_id": "1907",
+        "type": "secondary"
+      }
+    ],
+    "classroom_restrictions": [
+      "453"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "704": {
+    "last_name": "Singh",
+    "first_name": "Jatinder",
+    "department": "Math",
+    "teacher_can_teach": [
+      {
+        "course_id": "1931",
+        "type": "primary"
+      },
+      {
+        "course_id": "1942",
+        "type": "primary"
+      },
+      {
+        "course_id": "1948",
+        "type": "primary"
+      },
+      {
+        "course_id": "2008",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "458"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "705": {
+    "last_name": "Smith",
+    "first_name": "Donald",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2039",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "496"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "706": {
+    "last_name": "Sordillo",
+    "first_name": "Laura",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1906",
+        "type": "primary"
+      },
+      {
+        "course_id": "1907",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1908",
+        "type": "primary"
+      },
+      {
+        "course_id": "1918",
+        "type": "primary"
+      },
+      {
+        "course_id": "1919",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "707": {
+    "last_name": "Stanley",
+    "first_name": "Jordyn",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1904",
+        "type": "primary"
+      },
+      {
+        "course_id": "1907",
+        "type": "primary"
+      },
+      {
+        "course_id": "1909",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "450"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "708": {
+    "last_name": "Stellato",
+    "first_name": "Sebastiano",
+    "department": "World Language",
+    "teacher_can_teach": [
+      {
+        "course_id": "1883",
+        "type": "primary"
+      },
+      {
+        "course_id": "1884",
+        "type": "primary"
+      },
+      {
+        "course_id": "1885",
+        "type": "primary"
+      },
+      {
+        "course_id": "1886",
+        "type": "primary"
+      },
+      {
+        "course_id": "1891",
+        "type": "primary"
+      },
+      {
+        "course_id": "1892",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "440"
+    ],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "710": {
+    "last_name": "Terebetski",
+    "first_name": "Jaclyn",
+    "department": "Business",
+    "teacher_can_teach": [
+      {
+        "course_id": "1875",
+        "type": "primary"
+      },
+      {
+        "course_id": "1989",
+        "type": "primary"
+      },
+      {
+        "course_id": "1990",
+        "type": "primary"
+      },
+      {
+        "course_id": "1992",
+        "type": "primary"
+      },
+      {
+        "course_id": "1993",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "477"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "711": {
+    "last_name": "Toscano",
+    "first_name": "Rosanette",
+    "department": "Bilingual/ESL",
+    "teacher_can_teach": [
+      {
+        "course_id": "1848",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "712": {
+    "last_name": "Vigilante",
+    "first_name": "Kristy",
+    "department": "English",
+    "teacher_can_teach": [
+      {
+        "course_id": "1820",
+        "type": "secondary"
+      },
+      {
+        "course_id": "1822",
+        "type": "primary"
+      },
+      {
+        "course_id": "1874",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  },
+  "713": {
+    "last_name": "Voliva",
+    "first_name": "Brian",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1903",
+        "type": "primary"
+      },
+      {
+        "course_id": "1904",
+        "type": "primary"
+      },
+      {
+        "course_id": "1905",
+        "type": "primary"
+      },
+      {
+        "course_id": "1910",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "435"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "714": {
+    "last_name": "Wilson",
+    "first_name": "Donna",
+    "department": "Physical Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "2039",
+        "type": "primary"
+      },
+      {
+        "course_id": "2057",
+        "type": "primary"
+      },
+      {
+        "course_id": "2059",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "496"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "715": {
+    "last_name": "Wong",
+    "first_name": "Jana",
+    "department": "Science",
+    "teacher_can_teach": [
+      {
+        "course_id": "1913",
+        "type": "primary"
+      },
+      {
+        "course_id": "1922",
+        "type": "primary"
+      },
+      {
+        "course_id": "1923",
+        "type": "primary"
+      },
+      {
+        "course_id": "1924",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [
+      "454"
+    ],
+    "period_restrictions": [],
+    "student_restrictions": []
+  },
+  "717": {
+    "last_name": "Younghans",
+    "first_name": "Wayne",
+    "department": "Special Education",
+    "teacher_can_teach": [
+      {
+        "course_id": "1799",
+        "type": "primary"
+      },
+      {
+        "course_id": "1800",
+        "type": "primary"
+      },
+      {
+        "course_id": "1927",
+        "type": "primary"
+      },
+      {
+        "course_id": "1934",
+        "type": "primary"
+      },
+      {
+        "course_id": "1935",
+        "type": "primary"
+      },
+      {
+        "course_id": "1936",
+        "type": "primary"
+      }
+    ],
+    "classroom_restrictions": [],
+    "period_restrictions": [
+      "64"
+    ],
+    "student_restrictions": []
+  }
+}

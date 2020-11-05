@@ -10,6 +10,7 @@ import Profile from '../components/Profile';
 import Register from '../components/Register';
 import Settings from '../components/Settings';
 import ConfirmResources from '../components/ConfirmResources';
+import AlignResources from '../components/AlignResources';
 import { store } from '../store';
 import { push } from 'react-router-redux';
 
@@ -42,15 +43,18 @@ function App(props) {
           <Route exact path="/" component={Home}/>
           <Route path="/login" component={Login} />
           <Route path="/confirm-resources" component={ConfirmResources} />
+          <Route path="/align-resources" component={AlignResources} />
           <Route path="/register" component={Register} />            
           <Route path="/settings" component={Settings} />
           <Route path="/@:username" component={Profile} />
           </Switch>
       </>
-    :
-      <Header
-        appName={props.appName}
-        currentUser={props.currentUser} />
+    :  
+      <div>
+        {/*<Header
+                appName={props.appName}
+                currentUser={props.currentUser} />*/}
+      </div>
   )
 }
 

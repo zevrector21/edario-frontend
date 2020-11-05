@@ -1,0 +1,191 @@
+{
+  "4175": {
+    "student_code": " 60004067",
+    "first_name": "Anthony",
+    "last_name": "Martinez",
+    "grade": "9",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4176": {
+    "student_code": "51912",
+    "first_name": "Jacian",
+    "last_name": "Gonzalez",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4177": {
+    "student_code": "51913",
+    "first_name": "Jeremy",
+    "last_name": "Gonzalez",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4178": {
+    "student_code": "60000692",
+    "first_name": "Matthew",
+    "last_name": "Kmak",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4179": {
+    "student_code": "60000702",
+    "first_name": "Manases",
+    "last_name": "Pagan",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4180": {
+    "student_code": "60000734",
+    "first_name": "Harjot",
+    "last_name": "Singh",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4181": {
+    "student_code": "60000736",
+    "first_name": "Brenda",
+    "last_name": "Henriquez",
+    "grade": "12",
+    "gender": "F",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4182": {
+    "student_code": "60000897",
+    "first_name": "Zaire",
+    "last_name": "Crutchfield",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4183": {
+    "student_code": "60000921",
+    "first_name": "Anthony",
+    "last_name": "Ciccolella",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4184": {
+    "student_code": "60000956",
+    "first_name": "Nicole",
+    "last_name": "Rosario",
+    "grade": "12",
+    "gender": "F",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4185": {
+    "student_code": "60000978",
+    "first_name": "Asael",
+    "last_name": "Banobre",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4186": {
+    "student_code": "600009830",
+    "first_name": "Richell",
+    "last_name": "Valdez Paez",
+    "grade": "12",
+    "gender": "F",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4187": {
+    "student_code": "60001052",
+    "first_name": "Cynthia",
+    "last_name": "Roche",
+    "grade": "12",
+    "gender": "F",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4188": {
+    "student_code": "60001256",
+    "first_name": "Ezra",
+    "last_name": "Torres",
+    "grade": "11",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4189": {
+    "student_code": "60001302",
+    "first_name": "Robert",
+    "last_name": "Sroka",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4190": {
+    "student_code": "60001355",
+    "first_name": "Luis",
+    "last_name": "Robles",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4191": {
+    "student_code": "60001450",
+    "first_name": "Nisha",
+    "last_name": "Brar",
+    "grade": "12",
+    "gender": "F",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4192": {
+    "student_code": "60001454",
+    "first_name": "Mariah",
+    "last_name": "Ellis",
+    "grade": "12",
+    "gender": "F",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4193": {
+    "student_code": "60001456",
+    "first_name": "Harleen",
+    "last_name": "Jaspal",
+    "grade": "12",
+    "gender": "F",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4194": {
+    "student_code": "60001457",
+    "first_name": "Nicholas",
+    "last_name": "Hervias",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  },
+  "4195": {
+    "student_code": "60001458",
+    "first_name": "Javin",
+    "last_name": "Kenta",
+    "grade": "12",
+    "gender": "M",
+    "teacher_restrictions": [],
+    "student_restrictions": []
+  }
+}

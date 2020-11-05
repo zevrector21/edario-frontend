@@ -1,0 +1,1213 @@
+{
+  "4175": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "404",
+          "course_id": "1888"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "708",
+          "course_id": "1803"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "942",
+          "course_id": "1984"
+        },
+        {
+          "section_id": "535",
+          "course_id": "1801"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "909",
+          "course_id": "1874"
+        },
+        {
+          "section_id": "537",
+          "course_id": "1801"
+        }
+      ],
+      "66": [],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "633",
+          "course_id": "1799"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "849",
+          "course_id": "2038"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "375",
+          "course_id": "1797"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4176": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "804",
+          "course_id": "1835"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "860",
+          "course_id": "2043"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "972",
+          "course_id": "1993"
+        },
+        {
+          "section_id": "512",
+          "course_id": "1919"
+        }
+      ],
+      "65": [],
+      "66": [
+        {
+          "section_id": "919",
+          "course_id": "2015"
+        }
+      ],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "680",
+          "course_id": "1950"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "1004",
+          "course_id": "1840"
+        },
+        {
+          "section_id": "747",
+          "course_id": "1982"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "569",
+          "course_id": "1918"
+        },
+        {
+          "section_id": "654",
+          "course_id": "2019"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4177": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "410",
+          "course_id": "1917"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "561",
+          "course_id": "1918"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "994",
+          "course_id": "2000"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "953",
+          "course_id": "1863"
+        }
+      ],
+      "66": [],
+      "67": [
+        {
+          "section_id": "597",
+          "course_id": "1953"
+        }
+      ],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "864",
+          "course_id": "2043"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "946",
+          "course_id": "1975"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "485",
+          "course_id": "1836"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4178": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "559",
+          "course_id": "1919"
+        },
+        {
+          "section_id": "947",
+          "course_id": "1975"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "481",
+          "course_id": "1836"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "861",
+          "course_id": "2043"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "953",
+          "course_id": "1863"
+        }
+      ],
+      "66": [],
+      "67": [
+        {
+          "section_id": "675",
+          "course_id": "1950"
+        }
+      ],
+      "68": [],
+      "69": [
+        {
+          "section_id": "702",
+          "course_id": "1980"
+        }
+      ],
+      "70": [],
+      "71": [
+        {
+          "section_id": "746",
+          "course_id": "1983"
+        },
+        {
+          "section_id": "921",
+          "course_id": "2016"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "954",
+          "course_id": "1833"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4179": {
+    "periods": {
+      "62": [],
+      "63": [],
+      "64": [],
+      "65": [],
+      "66": [
+        {
+          "section_id": "483",
+          "course_id": "1817"
+        }
+      ],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [],
+      "71": [
+        {
+          "section_id": "599",
+          "course_id": "1953"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "866",
+          "course_id": "2043"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4180": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "859",
+          "course_id": "2043"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "937",
+          "course_id": "1949"
+        }
+      ],
+      "64": [],
+      "65": [
+        {
+          "section_id": "588",
+          "course_id": "1948"
+        }
+      ],
+      "66": [],
+      "67": [
+        {
+          "section_id": "637",
+          "course_id": "1944"
+        }
+      ],
+      "68": [],
+      "69": [
+        {
+          "section_id": "470",
+          "course_id": "1837"
+        }
+      ],
+      "70": [],
+      "71": [
+        {
+          "section_id": "922",
+          "course_id": "2015"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "591",
+          "course_id": "2008"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4181": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "468",
+          "course_id": "1837"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "561",
+          "course_id": "1918"
+        }
+      ],
+      "64": [],
+      "65": [
+        {
+          "section_id": "457",
+          "course_id": "1893"
+        }
+      ],
+      "66": [],
+      "67": [],
+      "68": [
+        {
+          "section_id": "1021",
+          "course_id": "1956"
+        },
+        {
+          "section_id": "1020",
+          "course_id": "1957"
+        },
+        {
+          "section_id": "616",
+          "course_id": "1955"
+        }
+      ],
+      "69": [
+        {
+          "section_id": "1022",
+          "course_id": "1958"
+        }
+      ],
+      "70": [],
+      "71": [
+        {
+          "section_id": "865",
+          "course_id": "2043"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "491",
+          "course_id": "1826"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4182": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "973",
+          "course_id": "1993"
+        },
+        {
+          "section_id": "975",
+          "course_id": "1994"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "1035",
+          "course_id": "1955"
+        },
+        {
+          "section_id": "1036",
+          "course_id": "1957"
+        },
+        {
+          "section_id": "1037",
+          "course_id": "1956"
+        },
+        {
+          "section_id": "1038",
+          "course_id": "1958"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "870",
+          "course_id": "2043"
+        }
+      ],
+      "65": [],
+      "66": [
+        {
+          "section_id": "483",
+          "course_id": "1817"
+        }
+      ],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "830",
+          "course_id": "2049"
+        }
+      ],
+      "71": [],
+      "72": [
+        {
+          "section_id": "1043",
+          "course_id": "1866"
+        },
+        {
+          "section_id": "1044",
+          "course_id": "1869"
+        },
+        {
+          "section_id": "1045",
+          "course_id": "1867"
+        },
+        {
+          "section_id": "1046",
+          "course_id": "1871"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4183": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "1040",
+          "course_id": "1870"
+        },
+        {
+          "section_id": "1041",
+          "course_id": "1872"
+        },
+        {
+          "section_id": "1042",
+          "course_id": "1873"
+        },
+        {
+          "section_id": "1039",
+          "course_id": "1868"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "1035",
+          "course_id": "1955"
+        },
+        {
+          "section_id": "1036",
+          "course_id": "1957"
+        },
+        {
+          "section_id": "1037",
+          "course_id": "1956"
+        },
+        {
+          "section_id": "1038",
+          "course_id": "1958"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "942",
+          "course_id": "1984"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "445",
+          "course_id": "1889"
+        }
+      ],
+      "66": [],
+      "67": [
+        {
+          "section_id": "357",
+          "course_id": "1936"
+        }
+      ],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "490",
+          "course_id": "1817"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "865",
+          "course_id": "2043"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "834",
+          "course_id": "1816"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4184": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "989",
+          "course_id": "2043"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "980",
+          "course_id": "2006"
+        }
+      ],
+      "64": [],
+      "65": [],
+      "66": [],
+      "67": [],
+      "68": [
+        {
+          "section_id": "489",
+          "course_id": "1837"
+        }
+      ],
+      "69": [],
+      "70": [
+        {
+          "section_id": "1024",
+          "course_id": "1956"
+        },
+        {
+          "section_id": "1027",
+          "course_id": "1958"
+        },
+        {
+          "section_id": "617",
+          "course_id": "1955"
+        },
+        {
+          "section_id": "1023",
+          "course_id": "1957"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "985",
+          "course_id": "2021"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "882",
+          "course_id": "2014"
+        },
+        {
+          "section_id": "928",
+          "course_id": "2016"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4185": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "859",
+          "course_id": "2043"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "561",
+          "course_id": "1918"
+        },
+        {
+          "section_id": "879",
+          "course_id": "2020"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "737",
+          "course_id": "1985"
+        }
+      ],
+      "65": [],
+      "66": [],
+      "67": [
+        {
+          "section_id": "637",
+          "course_id": "1944"
+        }
+      ],
+      "68": [
+        {
+          "section_id": "484",
+          "course_id": "1864"
+        }
+      ],
+      "69": [],
+      "70": [],
+      "71": [],
+      "72": [
+        {
+          "section_id": "419",
+          "course_id": "1921"
+        },
+        {
+          "section_id": "978",
+          "course_id": "2005"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4186": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "859",
+          "course_id": "2043"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "602",
+          "course_id": "1939"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "534",
+          "course_id": "1904"
+        },
+        {
+          "section_id": "379",
+          "course_id": "1976"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "536",
+          "course_id": "1904"
+        },
+        {
+          "section_id": "953",
+          "course_id": "1863"
+        }
+      ],
+      "66": [],
+      "67": [
+        {
+          "section_id": "446",
+          "course_id": "1895"
+        }
+      ],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "1024",
+          "course_id": "1956"
+        },
+        {
+          "section_id": "1027",
+          "course_id": "1958"
+        },
+        {
+          "section_id": "617",
+          "course_id": "1955"
+        },
+        {
+          "section_id": "1023",
+          "course_id": "1957"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "1032",
+          "course_id": "1869"
+        },
+        {
+          "section_id": "498",
+          "course_id": "1866"
+        },
+        {
+          "section_id": "1033",
+          "course_id": "1867"
+        },
+        {
+          "section_id": "1034",
+          "course_id": "1871"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "485",
+          "course_id": "1836"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4187": {
+    "periods": {
+      "62": [],
+      "63": [],
+      "64": [],
+      "65": [],
+      "66": [],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "490",
+          "course_id": "1817"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "624",
+          "course_id": "1940"
+        }
+      ],
+      "72": []
+    },
+    "lunch": ""
+  },
+  "4188": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "934",
+          "course_id": "1947"
+        },
+        {
+          "section_id": "973",
+          "course_id": "1993"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "594",
+          "course_id": "1812"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "853",
+          "course_id": "2041"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "825",
+          "course_id": "1831"
+        }
+      ],
+      "66": [],
+      "67": [
+        {
+          "section_id": "732",
+          "course_id": "1816"
+        }
+      ],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "823",
+          "course_id": "2013"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "831",
+          "course_id": "1916"
+        },
+        {
+          "section_id": "922",
+          "course_id": "2015"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "832",
+          "course_id": "1916"
+        },
+        {
+          "section_id": "614",
+          "course_id": "2020"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4189": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "804",
+          "course_id": "1835"
+        }
+      ],
+      "63": [],
+      "64": [],
+      "65": [
+        {
+          "section_id": "636",
+          "course_id": "1940"
+        }
+      ],
+      "66": [],
+      "67": [],
+      "68": [],
+      "69": [
+        {
+          "section_id": "470",
+          "course_id": "1837"
+        }
+      ],
+      "70": [
+        {
+          "section_id": "823",
+          "course_id": "2013"
+        }
+      ],
+      "71": [],
+      "72": []
+    },
+    "lunch": ""
+  },
+  "4190": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "619",
+          "course_id": "1941"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "1035",
+          "course_id": "1955"
+        },
+        {
+          "section_id": "1036",
+          "course_id": "1957"
+        },
+        {
+          "section_id": "1037",
+          "course_id": "1956"
+        },
+        {
+          "section_id": "1038",
+          "course_id": "1958"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "816",
+          "course_id": "1836"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "457",
+          "course_id": "1893"
+        }
+      ],
+      "66": [],
+      "67": [],
+      "68": [
+        {
+          "section_id": "415",
+          "course_id": "1921"
+        }
+      ],
+      "69": [],
+      "70": [
+        {
+          "section_id": "864",
+          "course_id": "2043"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "498",
+          "course_id": "1866"
+        },
+        {
+          "section_id": "1032",
+          "course_id": "1869"
+        },
+        {
+          "section_id": "1033",
+          "course_id": "1867"
+        },
+        {
+          "section_id": "1034",
+          "course_id": "1871"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "761",
+          "course_id": "2027"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4191": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "859",
+          "course_id": "2043"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "456",
+          "course_id": "1893"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "737",
+          "course_id": "1985"
+        },
+        {
+          "section_id": "381",
+          "course_id": "1976"
+        }
+      ],
+      "65": [],
+      "66": [],
+      "67": [
+        {
+          "section_id": "637",
+          "course_id": "1944"
+        }
+      ],
+      "68": [
+        {
+          "section_id": "484",
+          "course_id": "1864"
+        }
+      ],
+      "69": [],
+      "70": [],
+      "71": [],
+      "72": [
+        {
+          "section_id": "385",
+          "course_id": "1974"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4192": {
+    "periods": {
+      "62": [],
+      "63": [
+        {
+          "section_id": "481",
+          "course_id": "1836"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "1007",
+          "course_id": "1840"
+        },
+        {
+          "section_id": "1010",
+          "course_id": "1839"
+        }
+      ],
+      "65": [],
+      "66": [],
+      "67": [
+        {
+          "section_id": "597",
+          "course_id": "1953"
+        }
+      ],
+      "68": [],
+      "69": [
+        {
+          "section_id": "703",
+          "course_id": "1981"
+        }
+      ],
+      "70": [],
+      "71": [
+        {
+          "section_id": "883",
+          "course_id": "2021"
+        },
+        {
+          "section_id": "1019",
+          "course_id": "1987"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "866",
+          "course_id": "2043"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4193": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "973",
+          "course_id": "1993"
+        },
+        {
+          "section_id": "975",
+          "course_id": "1994"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "481",
+          "course_id": "1836"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "861",
+          "course_id": "2043"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "621",
+          "course_id": "1946"
+        }
+      ],
+      "66": [],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [
+        {
+          "section_id": "366",
+          "course_id": "1863"
+        }
+      ],
+      "71": [
+        {
+          "section_id": "417",
+          "course_id": "1917"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "492",
+          "course_id": "1841"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4194": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "546",
+          "course_id": "1924"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "547",
+          "course_id": "1924"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "737",
+          "course_id": "1985"
+        }
+      ],
+      "65": [
+        {
+          "section_id": "862",
+          "course_id": "2043"
+        }
+      ],
+      "66": [],
+      "67": [],
+      "68": [
+        {
+          "section_id": "484",
+          "course_id": "1864"
+        }
+      ],
+      "69": [],
+      "70": [],
+      "71": [
+        {
+          "section_id": "590",
+          "course_id": "1942"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "385",
+          "course_id": "1974"
+        }
+      ]
+    },
+    "lunch": ""
+  },
+  "4195": {
+    "periods": {
+      "62": [
+        {
+          "section_id": "546",
+          "course_id": "1924"
+        },
+        {
+          "section_id": "1016",
+          "course_id": "2019"
+        }
+      ],
+      "63": [
+        {
+          "section_id": "547",
+          "course_id": "1924"
+        }
+      ],
+      "64": [
+        {
+          "section_id": "482",
+          "course_id": "1834"
+        }
+      ],
+      "65": [],
+      "66": [
+        {
+          "section_id": "920",
+          "course_id": "2016"
+        }
+      ],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [],
+      "71": [
+        {
+          "section_id": "639",
+          "course_id": "1945"
+        }
+      ],
+      "72": [
+        {
+          "section_id": "866",
+          "course_id": "2043"
+        }
+      ]
+    },
+    "lunch": ""
+  }
+}

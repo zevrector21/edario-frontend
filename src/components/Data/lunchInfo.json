@@ -1,0 +1,63 @@
+{
+  "lunches": {
+    "21": {
+      "lunch_name": "Lunch 1",
+      "lunch_path": [
+        "65",
+        "67",
+        "69"
+      ],
+      "lunch_period": "64",
+      "students": []
+    },
+    "22": {
+      "lunch_name": "Lunch 2",
+      "lunch_path": [
+        "64",
+        "67",
+        "69"
+      ],
+      "lunch_period": "66",
+      "students": []
+    },
+    "23": {
+      "lunch_name": "Lunch 3",
+      "lunch_path": [
+        "64",
+        "66",
+        "69"
+      ],
+      "lunch_period": "68",
+      "students": []
+    },
+    "24": {
+      "lunch_name": "Lunch 4",
+      "lunch_path": [
+        "64",
+        "66",
+        "68"
+      ],
+      "lunch_period": "69",
+      "students": []
+    }
+  },
+  "periods": {
+    "64": "21",
+    "66": "22",
+    "68": "23",
+    "69": "24"
+  },
+  "teacher_lunches": {
+    "61": [],
+    "62": [],
+    "63": [],
+    "64": [],
+    "65": [],
+    "66": [],
+    "67": [],
+    "68": [],
+    "69": [],
+    "70": [],
+    "71": []
+  }
+}

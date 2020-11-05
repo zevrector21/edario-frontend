@@ -1,0 +1,784 @@
+{
+  "424": {
+    "classroom_name": "100",
+    "department": "Special Education",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "677"
+    ],
+    "course_restrictions": []
+  },
+  "425": {
+    "classroom_name": "101",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "426": {
+    "classroom_name": "104",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "427": {
+    "classroom_name": "106",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "428": {
+    "classroom_name": "108",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "429": {
+    "classroom_name": "109",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "430": {
+    "classroom_name": "110",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "632"
+    ],
+    "course_restrictions": []
+  },
+  "431": {
+    "classroom_name": "111",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "432": {
+    "classroom_name": "112",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "642"
+    ],
+    "course_restrictions": []
+  },
+  "433": {
+    "classroom_name": "113",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "681"
+    ],
+    "course_restrictions": []
+  },
+  "434": {
+    "classroom_name": "115",
+    "department": "Science",
+    "classroom_type": "Lab - General",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "1917",
+      "1920",
+      "1921"
+    ]
+  },
+  "435": {
+    "classroom_name": "117",
+    "department": "Science",
+    "classroom_type": "Lab - General",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "713"
+    ],
+    "course_restrictions": [
+      "1904",
+      "1905",
+      "1910"
+    ]
+  },
+  "436": {
+    "classroom_name": "123",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "618"
+    ],
+    "course_restrictions": []
+  },
+  "437": {
+    "classroom_name": "124B",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "438": {
+    "classroom_name": "125",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "668"
+    ],
+    "course_restrictions": []
+  },
+  "439": {
+    "classroom_name": "126",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "440": {
+    "classroom_name": "127",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "708"
+    ],
+    "course_restrictions": []
+  },
+  "441": {
+    "classroom_name": "129",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "701"
+    ],
+    "course_restrictions": []
+  },
+  "442": {
+    "classroom_name": "130",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "700"
+    ],
+    "course_restrictions": []
+  },
+  "443": {
+    "classroom_name": "131",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "444": {
+    "classroom_name": "132",
+    "department": "None",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "445": {
+    "classroom_name": "133",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "671"
+    ],
+    "course_restrictions": []
+  },
+  "446": {
+    "classroom_name": "135",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "680"
+    ],
+    "course_restrictions": []
+  },
+  "447": {
+    "classroom_name": "137",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "669"
+    ],
+    "course_restrictions": []
+  },
+  "448": {
+    "classroom_name": "139",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "627"
+    ],
+    "course_restrictions": []
+  },
+  "449": {
+    "classroom_name": "141",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "678"
+    ],
+    "course_restrictions": []
+  },
+  "450": {
+    "classroom_name": "150",
+    "department": "Science",
+    "classroom_type": "Lab - General",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "707"
+    ],
+    "course_restrictions": [
+      "1907",
+      "1909"
+    ]
+  },
+  "451": {
+    "classroom_name": "151",
+    "department": "Science",
+    "classroom_type": "Lab - General",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "688"
+    ],
+    "course_restrictions": [
+      "1908",
+      "1919"
+    ]
+  },
+  "452": {
+    "classroom_name": "152",
+    "department": "Science",
+    "classroom_type": "Lab - General",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "699"
+    ],
+    "course_restrictions": [
+      "1907",
+      "1913",
+      "1918"
+    ]
+  },
+  "453": {
+    "classroom_name": "153",
+    "department": "Science",
+    "classroom_type": "Lab - General",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "703"
+    ],
+    "course_restrictions": [
+      "1904",
+      "1907"
+    ]
+  },
+  "454": {
+    "classroom_name": "154",
+    "department": "Science",
+    "classroom_type": "Lab - Physics",
+    "max_capacity": "24",
+    "teacher_restrictions": [
+      "715"
+    ],
+    "course_restrictions": [
+      "1913",
+      "1922",
+      "1923",
+      "1924"
+    ]
+  },
+  "455": {
+    "classroom_name": "155",
+    "department": "Science",
+    "classroom_type": "Lab - General",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "1907",
+      "1908",
+      "1918",
+      "1919"
+    ]
+  },
+  "456": {
+    "classroom_name": "156",
+    "department": "Science",
+    "classroom_type": "Lab - Chem",
+    "max_capacity": "24",
+    "teacher_restrictions": [
+      "650"
+    ],
+    "course_restrictions": [
+      "1912",
+      "1913",
+      "1915"
+    ]
+  },
+  "457": {
+    "classroom_name": "157",
+    "department": "English",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "621"
+    ],
+    "course_restrictions": []
+  },
+  "458": {
+    "classroom_name": "202",
+    "department": "Math",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "704"
+    ],
+    "course_restrictions": []
+  },
+  "459": {
+    "classroom_name": "203",
+    "department": "Math",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "624"
+    ],
+    "course_restrictions": []
+  },
+  "460": {
+    "classroom_name": "204",
+    "department": "Math",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "663"
+    ],
+    "course_restrictions": []
+  },
+  "461": {
+    "classroom_name": "205",
+    "department": "Art",
+    "classroom_type": "Art",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "664"
+    ],
+    "course_restrictions": [
+      "2014",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2049",
+      "2052",
+      "2053"
+    ]
+  },
+  "462": {
+    "classroom_name": "206",
+    "department": "Math",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "463": {
+    "classroom_name": "207",
+    "department": "Special Education",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "2050",
+      "2051",
+      "2054"
+    ]
+  },
+  "464": {
+    "classroom_name": "208",
+    "department": "Math",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "466": {
+    "classroom_name": "209",
+    "department": "Visual & Performing Arts",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "467": {
+    "classroom_name": "211",
+    "department": "Math",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "656"
+    ],
+    "course_restrictions": []
+  },
+  "468": {
+    "classroom_name": "212",
+    "department": "Math",
+    "classroom_type": "Art",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "2014",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ]
+  },
+  "469": {
+    "classroom_name": "213",
+    "department": "Math",
+    "classroom_type": "Art",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "670"
+    ],
+    "course_restrictions": [
+      "2014",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ]
+  },
+  "470": {
+    "classroom_name": "215",
+    "department": "Art",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "2015",
+      "2016"
+    ]
+  },
+  "471": {
+    "classroom_name": "217",
+    "department": "Art",
+    "classroom_type": "Art",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "2014",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ]
+  },
+  "472": {
+    "classroom_name": "219",
+    "department": "Music",
+    "classroom_type": "Choir Room",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "654"
+    ],
+    "course_restrictions": [
+      "2030",
+      "2031",
+      "2032"
+    ]
+  },
+  "473": {
+    "classroom_name": "223",
+    "department": "Math",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "474": {
+    "classroom_name": "224",
+    "department": "Bilingual/ESL",
+    "classroom_type": "None",
+    "max_capacity": "30",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "476": {
+    "classroom_name": "225",
+    "department": "Bilingual/ESL",
+    "classroom_type": "None",
+    "max_capacity": "10",
+    "teacher_restrictions": [
+      "647"
+    ],
+    "course_restrictions": []
+  },
+  "477": {
+    "classroom_name": "226",
+    "department": "Business",
+    "classroom_type": "Computer Lab",
+    "max_capacity": "24",
+    "teacher_restrictions": [
+      "710"
+    ],
+    "course_restrictions": [
+      "1947",
+      "1949",
+      "1951",
+      "1988",
+      "1993",
+      "1994"
+    ]
+  },
+  "478": {
+    "classroom_name": "227",
+    "department": "Business",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "479": {
+    "classroom_name": "228",
+    "department": "Computer Science",
+    "classroom_type": "None",
+    "max_capacity": "20",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "1950"
+    ]
+  },
+  "481": {
+    "classroom_name": "229",
+    "department": "Business",
+    "classroom_type": "Computer Lab",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "615",
+      "619"
+    ],
+    "course_restrictions": [
+      "1947",
+      "1949",
+      "1951",
+      "1988"
+    ]
+  },
+  "482": {
+    "classroom_name": "24",
+    "department": "Special Education",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "674"
+    ],
+    "course_restrictions": []
+  },
+  "483": {
+    "classroom_name": "26",
+    "department": "Special Education",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "679"
+    ],
+    "course_restrictions": []
+  },
+  "484": {
+    "classroom_name": "30",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "641"
+    ],
+    "course_restrictions": []
+  },
+  "485": {
+    "classroom_name": "31",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "486": {
+    "classroom_name": "32",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "696"
+    ],
+    "course_restrictions": []
+  },
+  "487": {
+    "classroom_name": "33",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "695"
+    ],
+    "course_restrictions": []
+  },
+  "488": {
+    "classroom_name": "35",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "489": {
+    "classroom_name": "37",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "626"
+    ],
+    "course_restrictions": []
+  },
+  "490": {
+    "classroom_name": "39",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "657"
+    ],
+    "course_restrictions": []
+  },
+  "491": {
+    "classroom_name": "41",
+    "department": "Social Studies",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "492": {
+    "classroom_name": "53",
+    "department": "Technology",
+    "classroom_type": "None",
+    "max_capacity": "22",
+    "teacher_restrictions": [
+      "634"
+    ],
+    "course_restrictions": [
+      "2004",
+      "2005",
+      "2006",
+      "2007"
+    ]
+  },
+  "493": {
+    "classroom_name": "54",
+    "department": "Music",
+    "classroom_type": "Music",
+    "max_capacity": "28",
+    "teacher_restrictions": [
+      "625"
+    ],
+    "course_restrictions": [
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026",
+      "2027",
+      "2028",
+      "2029",
+      "2033"
+    ]
+  },
+  "494": {
+    "classroom_name": "55",
+    "department": "Health",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "495": {
+    "classroom_name": "B1",
+    "department": "Physical Education",
+    "classroom_type": "Gym",
+    "max_capacity": "30",
+    "teacher_restrictions": [],
+    "course_restrictions": [
+      "2038",
+      "2039",
+      "2041",
+      "2043"
+    ]
+  },
+  "496": {
+    "classroom_name": "B2",
+    "department": "Physical Education",
+    "classroom_type": "Gym",
+    "max_capacity": "30",
+    "teacher_restrictions": [
+      "705",
+      "714"
+    ],
+    "course_restrictions": [
+      "2038",
+      "2039",
+      "2041",
+      "2043"
+    ]
+  },
+  "497": {
+    "classroom_name": "Cafeteria",
+    "department": "None",
+    "classroom_type": "Cafeteria",
+    "max_capacity": "150",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "498": {
+    "classroom_name": "library",
+    "department": "World Language",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  },
+  "499": {
+    "classroom_name": "XX",
+    "department": "Special Education",
+    "classroom_type": "None",
+    "max_capacity": "28",
+    "teacher_restrictions": [],
+    "course_restrictions": []
+  }
+}
